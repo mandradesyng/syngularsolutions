@@ -32,9 +32,9 @@ checklist_content_46_2016 = """
 - No projeto e disposição dos equipamentos de controle de poço, os fatores que possam impactar o desempenho humano foram considerados e mitigados?
 ---
 ### Prática de Gestão nº 5: Seleção, Controle e Gerenciamento de Empresas Contratadas
-- Os procedimentos para seleção e avaliação de desempenho de Contratadas foram estabelecidos, documentados e implementados, considerando a qualidade e os riscos das atividades?
+- Existem procedimentos estabelecidos, documentados e em uso para selecionar contratadas e avaliar periodicamente seu desempenho, considerando a qualidade dos materiais, equipamentos, serviços fornecidos e os riscos das atividades?
 - Foi verificado se, ao ser constatado um desempenho insuficiente de uma contratada, um plano de ações corretivas e preventivas é formalmente elaborado e implementado, com prazos e responsáveis definidos? |||§§§ **Exemplos de Evidências:** RNC (Relatório de Não Conformidade), e-mails de "follow-up".
-- Foi confirmado que um Documento de Interface (Bridging Document) é elaborado e implementado para alinhar procedimentos, normas e equipamentos entre o Operador e as Contratadas?
+- Foi confirmado que um Documento de Interface (Bridging Document) é elaborado e implementado para alinhar procedimentos, normas e equipamentos entre o Operador e as Contratadas em cada etapa do ciclo da vida do poço?
 ---
 ### Prática de Gestão nº 6: Monitoramento e Melhoria Contínua do Desempenho
 - Foram estabelecidos e documentados os objetivos de segurança, um conjunto de indicadores de desempenho (proativos e reativos) e as respectivas metas para avaliar a eficácia do Gerenciamento da Integridade do Poço? |||§§§ **Exemplos de Evidências:** Percentual de conclusão dos planos de inspeção e manutenção no prazo.
@@ -45,7 +45,7 @@ checklist_content_46_2016 = """
 ### Prática de Gestão nº 7: Auditorias
 - O plano específico para esta auditoria foi formalmente elaborado e documentado, contemplando todos os itens exigidos nos itens 7.2.4 (a-g), como escopo, equipe, cronograma e parâmetros de criticidade? ||| **Letra da Lei (Item 7.2.4):** O plano de auditoria deve conter, no mínimo: a) escopo; b) procedimentos; c) equipe de auditoria; d) cronograma; e) parâmetros de criticidade; f) lista de verificação; g) instalações e poços a serem auditados.
 - Foi verificado se o plano de auditoria foi elaborado considerando os insumos obrigatórios do item 7.2.4.1 (ex: resultados de auditorias anteriores, histórico de incidentes, lições aprendidas)? ||| **Letra da Lei (Item 7.2.4.1):** São insumos obrigatórios para a elaboração do plano de auditoria: a) os resultados de auditorias anteriores; b) o histórico de incidentes; c) as lições aprendidas; d) as análises de risco; e) as mudanças significativas nos procedimentos, pessoal ou equipamentos; f) os resultados do monitoramento de desempenho.
-- A gerência da área auditada analisou o relatório e implementou um Plano de Ação para tratar a causa-raiz de cada não conformidade, com prazos e responsáveis definidos, conforme item 7.5.1? ||| **Letra da Lei (Item 7.5.1):** "A gerência da área auditada deve analisar o relatório da auditoria e implementar um Plano de Ação para eliminar ou mitigar a causa-raiz de cada não conformidade, que deverá conter os prazos e os responsáveis pela sua implementação."
+- A gerência da área auditada analisou o relatório documentou e implementou um Plano de Ação para tratar a causa-raiz de cada não conformidade, com prazos e responsáveis definidos, conforme item 7.5.1? ||| **Letra da Lei (Item 7.5.1):** "A gerência da área auditada deve analisar o relatório da auditoria e implementar um Plano de Ação para eliminar ou mitigar a causa-raiz de cada não conformidade, que deverá conter os prazos e os responsáveis pela sua implementação."
 - É realizada uma análise de abrangência para avaliar se as ações corretivas das auditorias são aplicáveis a outros ativos, poços ou Contratadas?
 - As lições aprendidas e as ações implementadas foram formalmente divulgadas (item 7.7.1) para a Força de Trabalho pertinente? ||| **Letra da Lei (Item 7.7.1):** "As lições aprendidas e as ações implementadas resultantes das auditorias devem ser documentadas e divulgadas para a Força de Trabalho pertinente."
 ---
@@ -57,10 +57,10 @@ checklist_content_46_2016 = """
 ### Prática de Gestão nº 9: Incidentes
 - O procedimento de investigação define claramente como identificar e registrar incidentes, e garante que qualquer falha em um elemento do CSB será tratada como um incidente a ser registrado?
 - O procedimento estabelece os critérios para a formação da equipe de investigação, assegurando o conhecimento técnico e a independência necessários para uma futura investigação?
-- O procedimento assegura que uma futura investigação será iniciada em até 48 horas para preservar as evidências?
+- O procedimento assegura que uma futura investigação será iniciada em até 48 horas após o encerramento do incidente, para preservar as evidências?
 - A metodologia de investigação descrita no procedimento garante que a análise irá identificar as causas-raiz, os fatores causais e a cronologia dos eventos?
 - O procedimento define um modelo (template) para o relatório de investigação que já contém todos os campos obrigatórios exigidos pelo item 9.5.2 da resolução? ||| **Letra da Lei (Resumo do Item 9.5.2):** O relatório de investigação deve conter, no mínimo: sumário, descrição do incidente, cronologia, análise das causas-raiz, fatores contribuintes, recomendações, plano de ação e lições aprendidas.
-- O sistema de gestão exige que, ao final de cada investigação, seja estabelecido um plano de ações corretivas e preventivas para tratar as causas-raiz?
+- O sistema de gestão exige que, ao final de cada investigação, seja estabelecido, documentado e implementado um plano de ações corretivas e preventivas para tratar as causas-raiz?
 - O procedimento inclui uma etapa obrigatória de "Análise de Abrangência" para avaliar se as liões aprendidas se aplicam a outros ativos?
 - O plano de comunicação da empresa prevê a divulgação dos resultados de investigações de incidentes para a Força de Trabalho?
 - O operador mantém um sistema para analisar alertas de segurança externos e demonstra como as ações pertinentes são implementadas?
